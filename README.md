@@ -1,4 +1,12 @@
-# Track1
-a VR mouse linear track (made w ViRMEn) -- this one is not outfitted to work with reward or rotary encoder
+# testTrack
+a VR mouse linear track (made w ViRMEn) that just tests the world on a computer, using keypresses to move forward. Note it is not set up to work with the treadmill, reward, multiple monitors, data-logging, etc. See Track1 or Track2 for that.
 
-put these files in the 'experiments' subdirectory within the ViRMEn directory
+## NOTES
+- put these files in the appropriate places in the ViRMEn path 
+
+## EXPERIMENT FILES
+- [ViRMEn path]/experiments/testTrack.m
+- [ViRMEn path]/experiments/testTrack.mat
+
+
+
